@@ -8,7 +8,7 @@ Ammar</a></h1>
 <p align="left"> <a href="https://twitter.com/AmmarSyedK" target="blank"><img src="https://img.shields.io/twitter/follow/AmmarSyedK?logo=twitter&style=for-the-badge" alt="ammarsyedk" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="150" width="250" alt="GIF" src="https://s9.gifyu.com/images/Personal-logo-Logo-Animation-1.gif">
+  <img align="right" top="500" height="230" width="400" alt="GIF" src="https://s9.gifyu.com/images/Personal-logo-Logo-Animation-1.gif">
 </a>
 
 - 🤝 I'm looking for a 6-month internship starting in March.
