@@ -11,6 +11,8 @@ Ammar</a></h1>
   <img align="right" top="500" height="230" width="400" alt="GIF" src="https://s9.gifyu.com/images/Personal-logo-Logo-Animation-1.gif">
 </a>
 
+<br>
+
 - 🤝 I'm looking for a 6-month internship starting in March.
 
 - 🔭 I’m currently working on my <a href="https://github.com/AmmarSyedK/ReactJSPortfolio/" target="blank">portfolio</a>
