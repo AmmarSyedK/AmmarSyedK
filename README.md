@@ -13,9 +13,9 @@ Ammar</a></h1>
 
 <br>
 
-- 🤝 I'm looking for a 6-month internship starting in March.
+- 🤝 I'm trying to get app ideas
 
-- 🔭 I’m currently working on my <a href="https://github.com/AmmarSyedK/ReactJSPortfolio/" target="blank">portfolio</a> (ReactJS & Tailwind CSS)
+- 🔭 I’m currently working on a memorize tool (Angular & Symfony)
 
 - 🌱 I’m currently learning how to make a software app using Qt
 
